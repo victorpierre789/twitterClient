@@ -1,11 +1,11 @@
 # twitterClient
 Simple Twitter Client with image in timeline
 
-# First week in developpement : Ok
-- Add verification twitter account existed on device : Ok
-- Simple Twitter timeline with two cell with image : Ok
+# First week in developpement : finish
+- Add verification twitter account existed on device : finish
+- Simple Twitter timeline with two cell with image : finish
 
-# Second week in developpement : wait
+# Second week in developpement : in course
 - Create a new tweet
 - Image account actived
 - Add gesture to the tableview for retweet and favorite
