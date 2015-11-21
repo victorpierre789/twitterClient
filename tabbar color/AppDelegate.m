@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "UIColor+HexString.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +18,13 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    [[UITabBar appearance] setBarTintColor:[UIColor colorWithHexString:@"#17293a"]];
+    
+    [[UITabBar appearance] setTintColor:[UIColor whiteColor]];
+    
+    [[UITabBar appearance] setSelectionIndicatorImage:[UIImage imageNamed:@"tabbar-selected-3.png"]];
+    
     return YES;
 }
 
