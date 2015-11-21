@@ -9,6 +9,7 @@ Simple Twitter Client with image in timeline
 - Create a new tweet
 - Image account actived
 - Add gesture to the tableview for retweet and favorite
+- Custom design
 
 # Install
 - Open project
